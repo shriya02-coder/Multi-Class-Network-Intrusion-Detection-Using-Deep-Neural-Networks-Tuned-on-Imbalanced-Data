@@ -19,6 +19,8 @@ This research is set to be published in the 2023 IEEE International Carnahan Con
 ## Contact for Code
 For access to the code and methodologies used in this study, please contact the authors via the following email addresses:
 - Shriya Pingulkar: pingulkarshriya@gmail.com
+- Shruti Tyagi: tyagishruti4102@gmail.com
+- Amaan Shaikh: amaan.jus@gmail.com
 
 ## Citation
 Please cite this research if utilized in your work.
