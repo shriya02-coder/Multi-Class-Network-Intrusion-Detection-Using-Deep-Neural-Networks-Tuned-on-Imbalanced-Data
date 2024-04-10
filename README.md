@@ -14,7 +14,7 @@ Deep neural networks, adept at extracting complex abstract features from raw tra
 The methodical experimentation in this study sets a benchmark for developing high-accuracy deep neural network architectures for tasks like multi-class network intrusion detection. It advances the state-of-the-art in applying deep learning to cybersecurity, introducing a structured tuning process that significantly enhances detection accuracy. The developed techniques notably improve the differentiation between normal network traffic and specific intrusion types, empowering security experts with the knowledge to understand attack vectors and fortify network defenses effectively.
 
 ## Publication Details
-This research is set to be published in the 2023 IEEE International Carnahan Conference on Security Technology and will be included in the Scopus-indexed IEEE Xplore Digital Library.
+Tyagi, S., Pingulkar, S. and Shaikh, A., 2023, October. Multi-Class Network Intrusion Detection Using Deep Neural Networks Tuned on Imbalanced Data. In 2023 IEEE International Carnahan Conference on Security Technology (ICCST) (pp. 1-5). IEEE.
 
 ## Contact for Code
 For access to the code and methodologies used in this study, please contact the authors via the following email addresses:
